@@ -1,0 +1,38 @@
+Apr 13 20:40:59 - [DEBUG] - Launching Cytopia
+Apr 13 20:40:59 - [INFO] - Using stereo sounds
+Apr 13 20:41:00 - [DEBUG] - Created AudioMixer
+Apr 13 20:41:00 - [DEBUG] - Created Game Object
+Apr 13 20:41:00 - [DEBUG] - Initializing Cytopia
+Apr 13 20:41:00 - [ERROR] - Failed to load MO file Z:\home\marisag\Downloads\cytopia\languages/en/Cytopia.mo
+Apr 13 20:41:01 - [DEBUG] - Initialized Game Object
+Apr 13 20:41:01 - [INFO] - Fetching Above_the_Clouds at Z:\home\marisag\Downloads\cytopia\resources/audio/music/Above_the_Clouds.ogg
+Apr 13 20:41:03 - [INFO] - Resource cache is now at 43MB
+Apr 13 20:41:06 - [INFO] - Fetching MajorSelection at Z:\home\marisag\Downloads\cytopia\resources/audio/sound effects/menu/Major Selection.ogg
+Apr 13 20:41:06 - [INFO] - Resource cache is now at 44MB
+Apr 13 20:41:08 - [DEBUG] - Running the Game
+Apr 13 20:41:08 - [INFO] - Cytopia 0.2.1 - tech preview
+Apr 13 20:41:08 - [DEBUG] - Map initialized in 0ms
+Apr 13 20:41:10 - [INFO] - Fetching SarahTheme at Z:\home\marisag\Downloads\cytopia\resources/audio/music/Sarah_Theme.ogg
+Apr 13 20:41:12 - [INFO] - Resource cache is now at 88MB
+Apr 13 20:41:13 - [INFO] - Fetching Nature at Z:\home\marisag\Downloads\cytopia\resources/audio/sound effects/menu/Nature Still Air and Birds.ogg
+Apr 13 20:41:15 - [INFO] - Resource cache is now at 123MB
+Apr 13 20:42:15 - [DEBUG] - Closing the Game
+Apr 13 20:42:15 - [DEBUG] - In shutdown
+Apr 13 20:42:15 - [DEBUG] - Destroyed AudioMixer
+Apr 13 20:46:02 - [DEBUG] - Launching Cytopia
+Apr 13 20:46:02 - [INFO] - Using stereo sounds
+Apr 13 20:46:02 - [DEBUG] - Created AudioMixer
+Apr 13 20:46:02 - [DEBUG] - Created Game Object
+Apr 13 20:46:02 - [DEBUG] - Initializing Cytopia
+Apr 13 20:46:03 - [ERROR] - Failed to load MO file Z:\home\marisag\Documents\MySnaps\cytopia\languages/en/Cytopia.mo
+Apr 13 20:46:03 - [DEBUG] - Initialized Game Object
+Apr 13 20:46:03 - [INFO] - Fetching Above_the_Clouds at Z:\home\marisag\Documents\MySnaps\cytopia\resources/audio/music/Above_the_Clouds.ogg
+Apr 13 20:46:06 - [INFO] - Resource cache is now at 43MB
+Apr 13 20:46:07 - [INFO] - Fetching NegativeSelect at Z:\home\marisag\Documents\MySnaps\cytopia\resources/audio/sound effects/menu/Negative Select.ogg
+Apr 13 20:46:07 - [DEBUG] - Running the Game
+Apr 13 20:46:07 - [INFO] - Cytopia 0.2.1 - tech preview
+Apr 13 20:46:08 - [INFO] - Resource cache is now at 43MB
+Apr 13 20:46:08 - [DEBUG] - Map initialized in 0ms
+Apr 13 20:46:10 - [DEBUG] - Closing the Game
+Apr 13 20:46:10 - [DEBUG] - In shutdown
+Apr 13 20:46:10 - [DEBUG] - Destroyed AudioMixer

@@ -36,3 +36,20 @@ Apr 13 20:46:08 - [DEBUG] - Map initialized in 0ms
 Apr 13 20:46:10 - [DEBUG] - Closing the Game
 Apr 13 20:46:10 - [DEBUG] - In shutdown
 Apr 13 20:46:10 - [DEBUG] - Destroyed AudioMixer
+Apr 13 21:08:19 - [DEBUG] - Launching Cytopia
+Apr 13 21:08:19 - [INFO] - Using stereo sounds
+Apr 13 21:08:19 - [DEBUG] - Created AudioMixer
+Apr 13 21:08:19 - [DEBUG] - Created Game Object
+Apr 13 21:08:19 - [DEBUG] - Initializing Cytopia
+Apr 13 21:08:20 - [ERROR] - Failed to load MO file Z:\home\marisag\Documents\MySnaps\cytopia\languages/en/Cytopia.mo
+Apr 13 21:08:20 - [DEBUG] - Initialized Game Object
+Apr 13 21:08:20 - [INFO] - Fetching Above_the_Clouds at Z:\home\marisag\Documents\MySnaps\cytopia\resources/audio/music/Above_the_Clouds.ogg
+Apr 13 21:08:23 - [INFO] - Resource cache is now at 43MB
+Apr 13 21:08:30 - [INFO] - Fetching NegativeSelect at Z:\home\marisag\Documents\MySnaps\cytopia\resources/audio/sound effects/menu/Negative Select.ogg
+Apr 13 21:08:30 - [DEBUG] - Running the Game
+Apr 13 21:08:30 - [INFO] - Resource cache is now at 43MB
+Apr 13 21:08:30 - [INFO] - Cytopia 0.2.1 - tech preview
+Apr 13 21:08:30 - [DEBUG] - Map initialized in 0ms
+Apr 13 21:08:32 - [DEBUG] - Closing the Game
+Apr 13 21:08:32 - [DEBUG] - In shutdown
+Apr 13 21:08:32 - [DEBUG] - Destroyed AudioMixer
